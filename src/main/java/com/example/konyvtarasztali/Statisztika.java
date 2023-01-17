@@ -38,7 +38,8 @@ public class Statisztika {
 
     private static String getSzerzoII(String cim) {
         int i = 0;
-        while (i < konyvek.size() && !konyvek.get(i))
+     //TODO   while (i < konyvek.size() && !konyvek.get(i))
+        return "";
     }
 
     private static String cimOlvasasaKonzolrol() {
